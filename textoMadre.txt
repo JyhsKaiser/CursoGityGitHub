@@ -1,3 +1,5 @@
 Este texto es de textoMadre
 
 Ahora le agregamos un nuevo cambio a mi archivo
+
+creamos un conflicto

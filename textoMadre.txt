@@ -5,3 +5,5 @@ Ahora le agregamos un nuevo cambio a mi archivo
 arreglamos el conflicto
 
 Agregamos mas
+
+Modificamos en nuestro repositorio remoto!!
